@@ -1,6 +1,6 @@
 package main.java.lecture11;
 
-public class function {
+public class Function {
     static void main() {
 
         // Funtions in Java
