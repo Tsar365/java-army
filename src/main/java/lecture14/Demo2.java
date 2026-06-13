@@ -26,7 +26,7 @@ class Random {
         this.x = x;
         this.y = y;
     }
-
+//
     Random(Random r) {
         this.x = r.x;
         this.y = r.y;
